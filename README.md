@@ -13,6 +13,7 @@ Once the plugin is installed in your project, simply add a `WaterMap` node as a 
 
 ## Demos
 ### Demo1
+![Demo 1](readme-images/watermap_demo_1.gif)
 You can find Demo 1 under `demos/WaterMapDemo1.tscn`. This shows a few of the basic features such as click add liquid tiles and TileMap index translation to liquid tiles.
 
 ## Configuration
